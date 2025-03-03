@@ -62,14 +62,14 @@
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-Java</artifactId>
-			<version>5.1.6</version>
+			<version>8.0.33</version>
 		</dependency>
 
 		<!-- log4j日志 依赖 -->
 		<dependency>
 			<groupId>apache-log4j</groupId>
 			<artifactId>log4j</artifactId>
-			<version>1.2.15</version>
+			<version>1.2.17</version>
 		</dependency>
 
 		<!-- JSP相关 -->
